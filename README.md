@@ -6,6 +6,6 @@
 
 <p><h4>👇my website Click on the photo below</h4></p>
 
-<p><a href="https://deep-eagle.github.io/Deep-Eagle1/" target="_blank" class="external" rel="nofollow"><font color="maroon"><img src="hi.jpg" width="50" height="50"></font></font></a> </p>
+<p><a href="https://deep-eagle.github.io/Deep-Eagle/" target="_blank" class="external" rel="nofollow"><font color="maroon"><img src="hi.jpg" width="50" height="50"></font></font></a> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sinhala&size=25&pause=1000&color=000000&multiline=true&repeat=false&width=700&height=288&lines=-+%F0%9F%8C%B1+I'm+learning+everything...;-+%F0%9F%91%AF+I+hope+to+cooperate+with+my+friends+...;-+%F0%9F%A4%94+I'm+looking+for+help+from+friends+...;-+%F0%9F%93%AB+Contact+me+via+WhatsApp%3A+..." alt="Typing SVG" /></a>
